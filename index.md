@@ -1,5 +1,5 @@
 ---
-title: Kevin Penate | Learning one project at a time! ---
+Kevin Penate | Learning one project at a time! ---
 
 ### Welcome to my CS portfolio!
 
