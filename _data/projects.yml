@@ -1,0 +1,9 @@
+- title: Atomic Chess
+  description: A Python CLI app that creates a 2-person strategy game, an alternate Chess game.
+  tech: Python
+  github:
+
+- title: Work Out Tracket(SPA)
+  description: A React SPA that displays users workout data from an API.
+  tech: React, JavaScript, CSS
+  github: 
