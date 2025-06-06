@@ -14,8 +14,8 @@ projects:
       - Optimized backend queries and reduced response times.
       - Used Git and Agile practices throughout development.
       - Deployed front-end to Netlify and backend to Render for full-stack deployment.
-    github: [Tracker Repo] (https://github.com/Ronniekev/workout-tracker.git)
-    live_site: [Exercise Tracker] (https://creative-clafoutis-c8a37e.netlify.app)
+      - github: [Tracker Repo] (https://github.com/Ronniekev/workout-tracker.git)
+      - live_site: [Exercise Tracker] (https://creative-clafoutis-c8a37e.netlify.app)
 
   - title: Atomic Chess
     subtitle: CLI 2 Player Strategy Game | Python
