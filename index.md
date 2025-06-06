@@ -12,5 +12,5 @@ I’m Kevin Penate — a Computer Science undergrad at Oregon State University, 
 
 Before diving into CS, I worked in biotech manufacturing and aerospace technical planning. Those roles taught me a lot about precision, collaboration, and working in fast-paced, technical environments—skills I bring with me into every coding project.
 
-Right now, I’m looking for an entry-level/junior software engineering role where I can grow my skillset, contribute to a team, and keep learning every day.
+I’m looking for an entry-level/junior software engineering role where I can grow my skillset, contribute to a team, and keep learning every day.
 
