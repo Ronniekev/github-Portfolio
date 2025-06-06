@@ -3,6 +3,9 @@ Kevin Penate | Learning one project at a time! ---
 
 ### Welcome to my CS portfolio!
 
+
+##### Check out my [Projects](/projects/) 
+
 #### About me
 
 Hey, I’m Kevin Penate — a Computer Science undergrad at Oregon State University, graduating in late 2025. I got into coding because I love solving problems, and that drive hasn’t slowed down. Every project I take on teaches me something new, and I’m always looking for the next challenge.
