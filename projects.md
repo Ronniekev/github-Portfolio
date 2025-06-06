@@ -3,3 +3,25 @@ layout: page
 title: "Projects"
 permalink: /projects/
 ---
+
+projects:
+  - title: Exercise Tracker Web Application
+    subtitle: Full-Stack Development | React, Express, MongoDB
+    description: |
+      - Designed and built a responsive web application enabling users to log and track workouts.
+      - Developed RESTful APIs using Express.js and connected to a MongoDB database.
+      - Built the front-end with React and React Router.
+      - Optimized backend queries and reduced response times.
+      - Used Git and Agile practices throughout development.
+      - Deployed front-end to Netlify and backend to Render for full-stack deployment.
+    github: [Tracker Repo] (https://github.com/Ronniekev/workout-tracker.git)
+    live_site: [Exercise Tracker] (https://creative-clafoutis-c8a37e.netlify.app)
+
+  - title: Atomic Chess
+    subtitle: CLI 2 Player Strategy Game | Python
+    description: |
+      - Built a turn-based chess engine using Python with custom atomic chess rules.
+      - Modeled game state with 2D arrays and recursive move validation.
+      - Parsed standard chess notation input.
+      - Applied TDD principles using PyCharm.
+    github: [Atomic Chess Repo] (https://github.com/Ronniekev/atomic-chess.git)
