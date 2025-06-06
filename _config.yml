@@ -2,3 +2,6 @@ theme: minima
 title: Kevin Penate's Blog
 description: Showcasing my projects.
 author: Ronniekev
+header_pages:
+  - index.md
+  - projects.md
