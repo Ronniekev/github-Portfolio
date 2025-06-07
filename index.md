@@ -4,7 +4,7 @@ Kevin Penate | Learning one project at a time! ---
 ### Welcome to my CS portfolio!
 
 
-##### Check out my [Projects](/projects/) 
+##### Check out my [Projects](projects/) 
 
 #### About me
 
