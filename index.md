@@ -5,10 +5,11 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/avatar.jpeg
   actions:
     - label: "View My Projects"
       url: "/projects/"
+    - label: "About Me"
+      url: "/about/"
 ---
 
 
