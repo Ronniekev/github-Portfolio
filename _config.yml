@@ -20,8 +20,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Navigation
-  navigation:
+navigation:
   - title: "Home"
     url: "/github-Portfolio/"
   - title: "Projects"
