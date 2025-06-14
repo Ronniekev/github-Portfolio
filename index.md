@@ -1,16 +1,21 @@
 ---
-Kevin Penate | Learning one project at a time! ---
+layout: splash
+title: "Welcome to My Portfolio"
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/avatar.jpg
+  actions:
+    - label: "View My Projects"
+      url: "/projects/"
+---
 
-### Welcome to my CS portfolio!
 
+# Welcome to My CS Portfolio
 
-##### Check out my [Projects](projects/) 
+I'm Kevin Penate, a Computer Science undergrad at Oregon State University, graduating in 2025. I love solving problems through code and bring a strong background in biotech and aerospace industries to my work.
 
-#### About me
+[View My Projects](projects/)
 
-I’m Kevin Penate, a Computer Science undergrad at Oregon State University, graduating in late 2025. I got into coding because I love solving problems, and that drive hasn’t slowed down. Every project I take on teaches me something new, and I’m always looking for the next challenge.
-
-Before diving into CS, I worked in biotech manufacturing and aerospace technical planning. Those roles taught me a lot about precision, collaboration, and working in fast paced, technical environments—skills I bring with me into every coding project.
-
-I’m looking for an entry level/junior software engineering role where I can grow my skillset, contribute to a team, and keep learning every day.
-
+I'm currently looking for a entry level/junior software engineering role where I can grow, contribute, and keep learning
