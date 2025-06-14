@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Kevin Penate](/assets/images/avatar.jpg){: .align-left width="200" }
+![Kevin Penate](/assets/images/avatar.jpeg){: .align-left width="200" }
 
 Hi, I'm Kevin Penate, a passionate full-stack developer and Computer Science undergrad at Oregon State University, graduating in late 2025.
 
