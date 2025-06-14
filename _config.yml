@@ -21,11 +21,11 @@ plugins:
   - jekyll-seo-tag
 
 # Navigation
-navigation:
+  navigation:
   - title: "Home"
-    url: "/"
+    url: "/github-Portfolio/"
   - title: "Projects"
-    url: "/projects/"
+    url: "/github-Portfolio/projects/"
   - title: "About"
-    url: "/about/"
+    url: "/github-Portfolio/about/"
 
